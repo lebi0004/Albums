@@ -1,0 +1,58 @@
+{
+    "1": {
+        "Album_Id": "673cb36ac6c81",
+        "Title": "Algonquin",
+        "Description": "",
+        "Accessibility_Code": "public",
+        "Owner_Id": "User123",
+        "Images": [
+            "uploads\/673cb36ac5ff2_PIG.jpg",
+            "uploads\/673cc66535f40_Uranus3.jpg",
+            "uploads\/673cce2167f78_Asteroid.jpg"
+        ],
+        "Type": "Private Day School",
+        "Grades": "K-12",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "Gender": "Coed",
+        "StudentPopulation": "1514689494",
+        "BoardingPopulation": "115516",
+        "NumberOfSchools": "165",
+        "Cost": "1",
+        "ClassSize": "125",
+        "Language": "English",
+        "Programs": [
+            "Regular Curriculum",
+            "AP Courses",
+            "International Baccalaureate (IB)",
+            "IB Prep",
+            "Montessori",
+            "Summer Program"
+        ]
+    },
+    "2": {
+        "Album_Id": "673cc8589795c",
+        "Title": "Seneca",
+        "Description": "",
+        "Accessibility_Code": "public",
+        "Owner_Id": "User123",
+        "Images": [
+            "uploads\/673cc858971fa_Mercury.jpg"
+        ],
+        "Type": "Public School",
+        "Grades": "9-12",
+        "Province": "Quebec",
+        "City": "Toronto",
+        "Gender": "All-girl",
+        "StudentPopulation": "148948",
+        "BoardingPopulation": "1684",
+        "NumberOfSchools": "48989",
+        "Cost": "4894",
+        "ClassSize": "6584",
+        "Language": "French",
+        "Programs": [
+            "Regular Curriculum",
+            "AP Courses"
+        ]
+    }
+}
